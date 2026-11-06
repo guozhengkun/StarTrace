@@ -1,0 +1,18 @@
+{
+  "smtp": {
+    "host": "smtp.qq.com",
+    "port": 465,
+    "user": "2858562290@qq.com"
+  },
+  "from_name": "StarTrace",
+  "to": [
+    "2126216003@tju.edu.cn"
+  ],
+  "language": "all",
+  "top_n": 25,
+  "send_time": "10:00",
+  "include_chinese": true,
+  "translation_provider": "local",
+  "translation_url": "https://ws-0vmkkrcq78wrhn9j.cn-beijing.maas.aliyuncs.com/compatible-mode/v1",
+  "translation_model": "qwen-max"
+}

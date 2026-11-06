@@ -1,0 +1,56 @@
+2026-10-19 18:54:33,659 [INFO] 已发送邮件 subject=GitHub 今日热门项目 2026-10-19（Top 12 · 全部语言） to=['2126216003@tju.edu.cn']
+Trending 页面抓取失败（The read operation timed out），改用 GitHub Search API 备用方案
+('get_installed_languages',)
+本地翻译模型暂不可用：'NoneType' object has no attribute 'get_translation'
+('get_installed_languages',)
+('get_installed_languages',)
+本地英译中模型已就绪
+('paragraphs:', ['An open source coding agent for developers.'])
+('apply_packaged_translation', 'An open source coding agent for developers.')
+('sentences', ['An open source coding agent for developers.'])
+('tokenized', [['▁An', '▁open', '▁source', '▁co', 'ding', '▁agent', '▁for', '▁developers', '.']])
+('translated_batches', [TranslationResult(hypotheses=[['▁', '开发', '者的', '开', '源', '编码', '代理', '▁', '。']], scores=[-2.5889782905578613], attention=[], logits=[])])
+('value_hypotheses:', [('开发者的开源编码代理 。', -2.5889782905578613)])
+('translated_paragraphs:', [[('开发者的开源编码代理 。', -2.5889782905578613)]])
+('hypotheses_to_return:', [('开发者的开源编码代理 。', -2.5889782905578613)])
+配置文件解析失败，使用默认配置：[Errno 1312] Windows 凭据管理器保存失败
+配置文件解析失败，使用默认配置：[Errno 1312] Windows 凭据管理器保存失败
+配置读取或授权码安全迁移失败：[WinError 5] 拒绝访问。: 'C:\\Users\\28585\\AppData\\Local\\StarTrace\\credentials'
+Index-Translate 本地翻译模型已就绪。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-03 · Top 5 to=['2126216003@tju.edu.cn']
+Index-Translate 本地翻译模型已就绪。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-03 · Top 5 to=['2126216003@tju.edu.cn']
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+已注册定时任务 GitHubTrendingMailer，每天 09:00
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 50 条。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-03 · Top 50 to=['2126216003@tju.edu.cn']
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 50 条。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-03 · Top 50 to=['2126216003@tju.edu.cn']
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+已注册定时任务 GitHubTrendingMailer，每天 09:00
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+已注册定时任务 GitHubTrendingMailer，每天 09:00
+已删除定时任务 GitHubTrendingMailer
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+已注册定时任务 GitHubTrendingMailer，每天 09:00
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+已注册定时任务 GitHubTrendingMailer，每天 10:00
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 25 条。
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 25 条。
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 25 条。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-03 · Top 25 to=['2126216003@tju.edu.cn']
+Trending 页面抓取失败（<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>），改用 GitHub Search API 备用方案
+Trending 页面抓取失败（<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>），改用 GitHub Search API 备用方案
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+Trending 页面抓取失败（<urlopen error [WinError 10054] 远程主机强迫关闭了一个现有的连接。>），改用 GitHub Search API 备用方案
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+Trending 页面抓取失败（<urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>），改用 GitHub Search API 备用方案
+配置已保存：C:\Users\28585\Desktop\StarTrace\config.json
+Trending 页面抓取失败（<urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>），改用 GitHub Search API 备用方案
+GitHub Trending 页面仅返回 18 条，改用 Search API 补足到 25 条。
+Index-Translate 本地翻译模型已就绪。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-07 · Top 25 to=['2126216003@tju.edu.cn']
+GitHub Trending 页面仅返回 18 条，改用 Search API 补足到 25 条。

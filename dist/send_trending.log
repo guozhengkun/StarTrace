@@ -1,0 +1,9 @@
+配置已保存：C:\Users\28585\Desktop\github-trending-mailer\dist\config.json
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 25 条。
+Index-Translate 本地翻译模型已就绪。
+Trending 页面抓取失败（<urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>），改用 GitHub Search API 备用方案
+配置已保存：C:\Users\28585\Desktop\github-trending-mailer\dist\config.json
+Trending 页面抓取失败（<urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>），改用 GitHub Search API 备用方案
+GitHub Trending 页面仅返回 15 条，改用 Search API 补足到 25 条。
+GitHub Trending 页面仅返回 14 条，改用 Search API 补足到 25 条。
+已发送邮件 subject=GitHub 项目日报（StarTrace）· 2026-11-03 · Top 25 to=['2126216003@tju.edu.cn']
